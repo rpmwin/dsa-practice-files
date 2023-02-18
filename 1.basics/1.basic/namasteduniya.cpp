@@ -10,4 +10,5 @@ int main()
     cin>>a;
     cout<<"you entered "<<a <<endl;
     return 0;
+    //changed now
 }
